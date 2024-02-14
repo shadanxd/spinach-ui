@@ -19,7 +19,7 @@ export const Default = {
   args: {
     color: "black",
     size: "large",
-    className: {},
     text: "Button",
+    className: {},
   },
 };

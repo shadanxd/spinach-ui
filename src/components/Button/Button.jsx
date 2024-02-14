@@ -7,10 +7,10 @@ import PropTypes from "prop-types";
 import React from "react";
 import "./style.css";
 
-export const Button = ({ color, size, className, text = "Button" }) => {
+export const Button = ({ color, size, text = "Button", className }) => {
   return (
     <button className={`button ${color} ${className}`}>
-      <div className="text-wrapper-16">{text}</div>
+      <div className="text-wrapper">{text}</div>
     </button>
   );
 };

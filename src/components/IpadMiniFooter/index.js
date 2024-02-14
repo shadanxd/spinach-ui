@@ -1,0 +1,1 @@
+export { IpadMiniFooter } from "./IpadMiniFooter";

@@ -16,55 +16,55 @@ export const DesktopFooter = ({
 }) => {
   return (
     <div className={`desktop-footer ${className}`}>
-      <div className="group">
+      <div className="group-42">
         <div className="overlap">
-          <div className="element-floor-corporate-wrapper">
-            <p className="element-floor-corporate">
+          <div className="element-th-floor-corporate-wrapper">
+            <p className="element-floor-corporate-4">
               7th floor, Corporate Park ||, <br />
               Sion-Trombay Road, Chembur, Mumbai- 400071 , India.
             </p>
           </div>
-          <img className="LOGO" alt="Logo" src={LOGO} />
+          <img className="LOGO-3" alt="Logo" src={LOGO} />
         </div>
-        <p className="text-wrapper">© 2024 Spinach Experience Design</p>
-        <div className="div">View on Google maps</div>
-        <div className="group-2">
-          <div className="text-wrapper-2">Business enquiries:</div>
-          <div className="text-wrapper-3">eshani@spinachexperience.design</div>
-          <div className="text-wrapper-4">+91 9821297209</div>
+        <p className="text-wrapper-65">© 2024 Spinach Experience Design</p>
+        <div className="text-wrapper-66">View on Google maps</div>
+        <div className="group-43">
+          <div className="text-wrapper-67">Business enquiries:</div>
+          <div className="text-wrapper-68">eshani@spinachexperience.design</div>
+          <div className="text-wrapper-69">+91 9821297209</div>
         </div>
-        <div className="group-3">
-          <div className="text-wrapper-2">Career enquiries:</div>
-          <div className="text-wrapper-5">fedora@spinachexperience.design</div>
-          <div className="text-wrapper-4">+91 8097260369</div>
+        <div className="group-44">
+          <div className="text-wrapper-67">Career enquiries:</div>
+          <div className="text-wrapper-70">fedora@spinachexperience.design</div>
+          <div className="text-wrapper-69">+91 8097260369</div>
         </div>
-        <img className="line" alt="Line" src={line} />
-        <img className="img" alt="Line" src={img} />
-        <img className="line-2" alt="Line" src={line1} />
-        <div className="overlap-group">
-          <div className="group-4">
-            <div className="text-wrapper-6">The Company</div>
-            <div className="text-wrapper-7">Our Services</div>
-            <div className="text-wrapper-8">Our Expertise</div>
-            <div className="text-wrapper-9">Client Work</div>
-            <div className="text-wrapper-10">Careers</div>
+        <img className="line-11" alt="Line" src={line} />
+        <img className="line-12" alt="Line" src={img} />
+        <img className="line-13" alt="Line" src={line1} />
+        <div className="overlap-group-3">
+          <div className="group-45">
+            <div className="text-wrapper-71">The Company</div>
+            <div className="text-wrapper-72">Our Services</div>
+            <div className="text-wrapper-73">Our Expertise</div>
+            <div className="text-wrapper-74">Client Work</div>
+            <div className="text-wrapper-75">Careers</div>
           </div>
-          <div className="group-5">
-            <div className="text-wrapper-6">Privacy Policy</div>
-            <div className="text-wrapper-7">Terms &amp; Conditions</div>
+          <div className="group-46">
+            <div className="text-wrapper-71">Privacy Policy</div>
+            <div className="text-wrapper-72">Terms &amp; Conditions</div>
           </div>
         </div>
-        <div className="group-6">
-          <div className="ellipse" />
-          <div className="text-wrapper-11">LinkedIn</div>
-          <div className="text-wrapper-12">Instagram</div>
-          <div className="text-wrapper-13">Dribbble</div>
-          <div className="text-wrapper-14">Behance</div>
-          <div className="text-wrapper-15">Twitter</div>
-          <div className="ellipse-2" />
-          <div className="ellipse-3" />
-          <div className="ellipse-4" />
-          <div className="ellipse-5" />
+        <div className="group-47">
+          <div className="ellipse-7" />
+          <div className="text-wrapper-76">LinkedIn</div>
+          <div className="text-wrapper-77">Instagram</div>
+          <div className="text-wrapper-78">Dribbble</div>
+          <div className="text-wrapper-79">Behance</div>
+          <div className="text-wrapper-80">Twitter</div>
+          <div className="ellipse-8" />
+          <div className="ellipse-9" />
+          <div className="ellipse-10" />
+          <div className="ellipse-11" />
         </div>
       </div>
     </div>

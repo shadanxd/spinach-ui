@@ -1,0 +1,388 @@
+.ipad-mini-footer {
+    background-color: var(--primaryblack);
+    height: 650px;
+    position: relative;
+    width: 744px;
+  }
+  
+  .ipad-mini-footer .line-4 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 744px;
+  }
+  
+  .ipad-mini-footer .element-th-floor-corporate {
+    color: var(--secondarygrey-5);
+    font-family: var(--minitab-body-b2-font-family);
+    font-size: var(--minitab-body-b2-font-size);
+    font-style: var(--minitab-body-b2-font-style);
+    font-weight: var(--minitab-body-b2-font-weight);
+    left: 65px;
+    letter-spacing: var(--minitab-body-b2-letter-spacing);
+    line-height: var(--minitab-body-b2-line-height);
+    position: absolute;
+    top: 199px;
+    width: 344px;
+  }
+  
+  .ipad-mini-footer .p {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b4-font-family);
+    font-size: var(--mobile-body-b4-font-size);
+    font-style: var(--mobile-body-b4-font-style);
+    font-weight: var(--mobile-body-b4-font-weight);
+    left: 64px;
+    letter-spacing: var(--mobile-body-b4-letter-spacing);
+    line-height: var(--mobile-body-b4-line-height);
+    position: absolute;
+    top: 599px;
+    width: 301px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-19 {
+    color: #ffffff;
+    font-family: "Haffer SQ XH-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 65px;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    text-decoration: underline;
+    top: 298px;
+    white-space: nowrap;
+    width: 244px;
+  }
+  
+  .ipad-mini-footer .line-5 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 578px;
+    width: 744px;
+  }
+  
+  .ipad-mini-footer .group-12 {
+    height: 183px;
+    left: 65px;
+    position: absolute;
+    top: 357px;
+    width: 349px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-20 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b4-font-family);
+    font-size: var(--mobile-body-b4-font-size);
+    font-style: var(--mobile-body-b4-font-style);
+    font-weight: var(--mobile-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b4-letter-spacing);
+    line-height: var(--mobile-body-b4-line-height);
+    position: absolute;
+    top: 113px;
+    white-space: nowrap;
+    width: 181px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-21 {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 137px;
+    white-space: nowrap;
+    width: 343px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-22 {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 165px;
+    white-space: nowrap;
+    width: 306px;
+  }
+  
+  .ipad-mini-footer .group-13 {
+    height: 81px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 349px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-23 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b4-font-family);
+    font-size: var(--mobile-body-b4-font-size);
+    font-style: var(--mobile-body-b4-font-style);
+    font-weight: var(--mobile-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b4-letter-spacing);
+    line-height: var(--mobile-body-b4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 162px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-24 {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 28px;
+    white-space: nowrap;
+    width: 343px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-25 {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 57px;
+    white-space: nowrap;
+    width: 273px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-26 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 464px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 397px;
+    white-space: nowrap;
+  }
+  
+  .ipad-mini-footer .terms-conditions-2 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 464px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 449px;
+    width: 234px;
+  }
+  
+  .ipad-mini-footer .group-14 {
+    height: 39px;
+    left: 65px;
+    position: absolute;
+    top: 137px;
+    width: 239px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-27 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 464px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 137px;
+    white-space: nowrap;
+  }
+  
+  .ipad-mini-footer .text-wrapper-28 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 464px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 189px;
+    white-space: nowrap;
+  }
+  
+  .ipad-mini-footer .text-wrapper-29 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 464px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 241px;
+    white-space: nowrap;
+  }
+  
+  .ipad-mini-footer .text-wrapper-30 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 464px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 293px;
+    white-space: nowrap;
+  }
+  
+  .ipad-mini-footer .text-wrapper-31 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 464px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 345px;
+    white-space: nowrap;
+  }
+  
+  .ipad-mini-footer .group-15 {
+    height: 28px;
+    left: 64px;
+    position: absolute;
+    top: 34px;
+    width: 615px;
+  }
+  
+  .ipad-mini-footer .group-16 {
+    height: 28px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 92px;
+  }
+  
+  .ipad-mini-footer .ellipse-3 {
+    background-color: #ffffff;
+    border-radius: 3.99px/3.94px;
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 8px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-32 {
+    color: #ffffff;
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 16px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 0;
+    width: 74px;
+  }
+  
+  .ipad-mini-footer .group-17 {
+    height: 28px;
+    left: 131px;
+    position: absolute;
+    top: 0;
+    width: 106px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-33 {
+    color: #ffffff;
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 16px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 0;
+    width: 88px;
+  }
+  
+  .ipad-mini-footer .group-18 {
+    height: 28px;
+    left: 407px;
+    position: absolute;
+    top: 0;
+    width: 94px;
+  }
+  
+  .ipad-mini-footer .text-wrapper-34 {
+    color: #ffffff;
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 16px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .ipad-mini-footer .ellipse-4 {
+    background-color: #ffffff;
+    border-radius: 3.94px;
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 8px;
+  }
+  
+  .ipad-mini-footer .group-19 {
+    height: 28px;
+    left: 540px;
+    position: absolute;
+    top: 0;
+    width: 77px;
+  }
+  
+  .ipad-mini-footer .group-20 {
+    height: 28px;
+    left: 276px;
+    position: absolute;
+    top: 0;
+    width: 92px;
+  }
+  

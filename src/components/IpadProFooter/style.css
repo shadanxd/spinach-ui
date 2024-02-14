@@ -1,0 +1,344 @@
+.ipad-pro-footer {
+    background-color: var(--primaryblack);
+    height: 630px;
+    position: relative;
+    width: 1024px;
+  }
+  
+  .ipad-pro-footer .overlap-group {
+    height: 183px;
+    left: 41px;
+    position: absolute;
+    top: 148px;
+    width: 254px;
+  }
+  
+  .ipad-pro-footer .element-floor-corporate-2 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 18px;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 99px;
+    width: 235px;
+  }
+  
+  .ipad-pro-footer .LOGO {
+    height: 105px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 254px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-35 {
+    color: var(--secondarygrey-5);
+    font-family: var(--minitab-body-b3-font-family);
+    font-size: var(--minitab-body-b3-font-size);
+    font-style: var(--minitab-body-b3-font-style);
+    font-weight: var(--minitab-body-b3-font-weight);
+    left: 56px;
+    letter-spacing: var(--minitab-body-b3-letter-spacing);
+    line-height: var(--minitab-body-b3-line-height);
+    position: absolute;
+    top: 573px;
+    width: 301px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-36 {
+    color: #ffffff;
+    font-family: "Haffer SQ XH-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 59px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    text-decoration: underline;
+    top: 355px;
+    width: 244px;
+  }
+  
+  .ipad-pro-footer .line-6 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1024px;
+  }
+  
+  .ipad-pro-footer .line-7 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 556px;
+    width: 1024px;
+  }
+  
+  .ipad-pro-footer .group-21 {
+    height: 158px;
+    left: 406px;
+    position: absolute;
+    top: 182px;
+    width: 116px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-37 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .ipad-pro-footer .text-wrapper-38 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 44px;
+    white-space: nowrap;
+  }
+  
+  .ipad-pro-footer .text-wrapper-39 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 87px;
+    white-space: nowrap;
+  }
+  
+  .ipad-pro-footer .text-wrapper-40 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 130px;
+    white-space: nowrap;
+  }
+  
+  .ipad-pro-footer .group-22 {
+    height: 116px;
+    left: 638px;
+    position: absolute;
+    top: 182px;
+    width: 153px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-41 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 45px;
+    white-space: nowrap;
+  }
+  
+  .ipad-pro-footer .terms-conditions-3 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 88px;
+    white-space: nowrap;
+  }
+  
+  .ipad-pro-footer .group-23 {
+    height: 36px;
+    left: 58px;
+    position: absolute;
+    top: 50px;
+    width: 891px;
+  }
+  
+  .ipad-pro-footer .group-24 {
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 115px;
+  }
+  
+  .ipad-pro-footer .ellipse-5 {
+    background-color: #ffffff;
+    border-radius: 3.94px;
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 14px;
+    width: 8px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-42 {
+    color: #ffffff;
+    font-family: var(--web-body-b2-font-family);
+    font-size: var(--web-body-b2-font-size);
+    font-style: var(--web-body-b2-font-style);
+    font-weight: var(--web-body-b2-font-weight);
+    left: 16px;
+    letter-spacing: var(--web-body-b2-letter-spacing);
+    line-height: var(--web-body-b2-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .ipad-pro-footer .group-25 {
+    height: 36px;
+    left: 193px;
+    position: absolute;
+    top: 0;
+    width: 134px;
+  }
+  
+  .ipad-pro-footer .group-26 {
+    height: 36px;
+    left: 404px;
+    position: absolute;
+    top: 0;
+    width: 117px;
+  }
+  
+  .ipad-pro-footer .group-27 {
+    height: 36px;
+    left: 599px;
+    position: absolute;
+    top: 0;
+    width: 120px;
+  }
+  
+  .ipad-pro-footer .group-28 {
+    height: 36px;
+    left: 797px;
+    position: absolute;
+    top: 0;
+    width: 96px;
+  }
+  
+  .ipad-pro-footer .group-29 {
+    height: 72px;
+    left: 59px;
+    position: absolute;
+    top: 438px;
+    width: 312px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-43 {
+    color: var(--secondarygrey-5);
+    font-family: var(--web-caption-CTA-caption-font-family);
+    font-size: var(--web-caption-CTA-caption-font-size);
+    font-style: var(--web-caption-CTA-caption-font-style);
+    font-weight: var(--web-caption-CTA-caption-font-weight);
+    left: 0;
+    letter-spacing: var(--web-caption-CTA-caption-letter-spacing);
+    line-height: var(--web-caption-CTA-caption-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 158px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-44 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 24px;
+    white-space: nowrap;
+    width: 306px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-45 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 54px;
+    white-space: nowrap;
+    width: 266px;
+  }
+  
+  .ipad-pro-footer .group-30 {
+    height: 72px;
+    left: 406px;
+    position: absolute;
+    top: 438px;
+    width: 312px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-46 {
+    color: var(--secondarygrey-5);
+    font-family: var(--web-caption-CTA-caption-font-family);
+    font-size: var(--web-caption-CTA-caption-font-size);
+    font-style: var(--web-caption-CTA-caption-font-style);
+    font-weight: var(--web-caption-CTA-caption-font-weight);
+    left: 0;
+    letter-spacing: var(--web-caption-CTA-caption-letter-spacing);
+    line-height: var(--web-caption-CTA-caption-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 181px;
+  }
+  
+  .ipad-pro-footer .text-wrapper-47 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 54px;
+    white-space: nowrap;
+    width: 306px;
+  }
+  

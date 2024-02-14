@@ -1,0 +1,435 @@
+.mobile-footer {
+    background-color: var(--primaryblack);
+    height: 1247px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .mobile-footer .line {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 390px;
+  }
+  
+  .mobile-footer .img {
+    height: 2px;
+    left: 24px;
+    position: absolute;
+    top: 524px;
+    width: 342px;
+  }
+  
+  .mobile-footer .line-2 {
+    height: 2px;
+    left: 24px;
+    position: absolute;
+    top: 720px;
+    width: 342px;
+  }
+  
+  .mobile-footer .div {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b4-font-family);
+    font-size: var(--mobile-body-b4-font-size);
+    font-style: var(--mobile-body-b4-font-style);
+    font-weight: var(--mobile-body-b4-font-weight);
+    left: 24px;
+    letter-spacing: var(--mobile-body-b4-letter-spacing);
+    line-height: var(--mobile-body-b4-line-height);
+    position: absolute;
+    top: 1196px;
+    width: 301px;
+  }
+  
+  .mobile-footer .line-3 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 1172px;
+    width: 390px;
+  }
+  
+  .mobile-footer .group {
+    height: 141px;
+    left: 24px;
+    position: absolute;
+    top: 992px;
+    width: 344px;
+  }
+  
+  .mobile-footer .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Haffer SQ XH-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    text-decoration: underline;
+    top: 123px;
+    white-space: nowrap;
+    width: 244px;
+  }
+  
+  .mobile-footer .group-2 {
+    height: 107px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 346px;
+  }
+  
+  .mobile-footer .element-floor-corporate {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 24px;
+    width: 342px;
+  }
+  
+  .mobile-footer .text-wrapper-3 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b4-font-family);
+    font-size: var(--mobile-body-b4-font-size);
+    font-style: var(--mobile-body-b4-font-style);
+    font-weight: var(--mobile-body-b4-font-weight);
+    left: 1px;
+    letter-spacing: var(--mobile-body-b4-letter-spacing);
+    line-height: var(--mobile-body-b4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 181px;
+  }
+  
+  .mobile-footer .group-3 {
+    height: 70px;
+    left: 24px;
+    position: absolute;
+    top: 882px;
+    width: 348px;
+  }
+  
+  .mobile-footer .text-wrapper-4 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b4-font-family);
+    font-size: var(--mobile-body-b4-font-size);
+    font-style: var(--mobile-body-b4-font-style);
+    font-weight: var(--mobile-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b4-letter-spacing);
+    line-height: var(--mobile-body-b4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 181px;
+  }
+  
+  .mobile-footer .text-wrapper-5 {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 24px;
+    white-space: nowrap;
+    width: 342px;
+  }
+  
+  .mobile-footer .text-wrapper-6 {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 52px;
+    white-space: nowrap;
+    width: 306px;
+  }
+  
+  .mobile-footer .group-4 {
+    height: 81px;
+    left: 24px;
+    position: absolute;
+    top: 761px;
+    width: 348px;
+  }
+  
+  .mobile-footer .text-wrapper-7 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b4-font-family);
+    font-size: var(--mobile-body-b4-font-size);
+    font-style: var(--mobile-body-b4-font-style);
+    font-weight: var(--mobile-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b4-letter-spacing);
+    line-height: var(--mobile-body-b4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 162px;
+  }
+  
+  .mobile-footer .text-wrapper-8 {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 28px;
+    white-space: nowrap;
+    width: 342px;
+  }
+  
+  .mobile-footer .text-wrapper-9 {
+    color: var(--secondarygrey-5);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 0;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 57px;
+    white-space: nowrap;
+    width: 272px;
+  }
+  
+  .mobile-footer .text-wrapper-10 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 24px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 404px;
+    white-space: nowrap;
+  }
+  
+  .mobile-footer .terms-conditions {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 24px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 456px;
+    width: 234px;
+  }
+  
+  .mobile-footer .group-5 {
+    height: 39px;
+    left: 24px;
+    position: absolute;
+    top: 66px;
+    width: 240px;
+  }
+  
+  .mobile-footer .text-wrapper-11 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 24px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 144px;
+    white-space: nowrap;
+  }
+  
+  .mobile-footer .text-wrapper-12 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 24px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 196px;
+    white-space: nowrap;
+  }
+  
+  .mobile-footer .text-wrapper-13 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 24px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 248px;
+    white-space: nowrap;
+  }
+  
+  .mobile-footer .text-wrapper-14 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 24px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 300px;
+    white-space: nowrap;
+  }
+  
+  .mobile-footer .text-wrapper-15 {
+    color: var(--primarywhite);
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 24px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 352px;
+    white-space: nowrap;
+  }
+  
+  .mobile-footer .group-6 {
+    height: 116px;
+    left: 24px;
+    position: absolute;
+    top: 565px;
+    width: 276px;
+  }
+  
+  .mobile-footer .group-7 {
+    height: 28px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 92px;
+  }
+  
+  .mobile-footer .ellipse {
+    background-color: #ffffff;
+    border-radius: 3.99px/3.94px;
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 8px;
+  }
+  
+  .mobile-footer .text-wrapper-16 {
+    color: #ffffff;
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 16px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 0;
+    width: 74px;
+  }
+  
+  .mobile-footer .group-8 {
+    height: 28px;
+    left: 1px;
+    position: absolute;
+    top: 44px;
+    width: 106px;
+  }
+  
+  .mobile-footer .text-wrapper-17 {
+    color: #ffffff;
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 16px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 0;
+    width: 88px;
+  }
+  
+  .mobile-footer .group-9 {
+    height: 28px;
+    left: 184px;
+    position: absolute;
+    top: 0;
+    width: 94px;
+  }
+  
+  .mobile-footer .text-wrapper-18 {
+    color: #ffffff;
+    font-family: var(--mobile-body-b2-font-family);
+    font-size: var(--mobile-body-b2-font-size);
+    font-style: var(--mobile-body-b2-font-style);
+    font-weight: var(--mobile-body-b2-font-weight);
+    left: 16px;
+    letter-spacing: var(--mobile-body-b2-letter-spacing);
+    line-height: var(--mobile-body-b2-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .mobile-footer .ellipse-2 {
+    background-color: #ffffff;
+    border-radius: 3.94px;
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 8px;
+  }
+  
+  .mobile-footer .group-10 {
+    height: 28px;
+    left: 185px;
+    position: absolute;
+    top: 44px;
+    width: 77px;
+  }
+  
+  .mobile-footer .group-11 {
+    height: 28px;
+    left: 2px;
+    position: absolute;
+    top: 88px;
+    width: 92px;
+  }
+  

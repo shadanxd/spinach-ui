@@ -8,7 +8,7 @@ import React from "react";
 import { useReducer } from "react";
 import "./style.css";
 
-export const NavigationBar = ({
+export const PropertyDefaultWrapper = ({
   property1,
   className,
   componentClassName,
@@ -20,9 +20,9 @@ export const NavigationBar = ({
   });
 
   return (
-    <div className={`navigation-bar ${className}`}>
+    <div className={`property-default-wrapper ${className}`}>
       <div
-        className={`component ${state.property1} ${componentClassName}`}
+        className={`component-4 property-1-4-${state.property1} ${componentClassName}`}
         onMouseLeave={() => {
           dispatch("mouse_leave");
         }}
@@ -30,20 +30,20 @@ export const NavigationBar = ({
           dispatch("mouse_enter");
         }}
       >
-        <div className="text-wrapper-61">The Company</div>
+        <div className="text-wrapper-81">The Company</div>
       </div>
       <div
-        className={`component-2 ${state.property1} ${componentClassNameOverride}`}
+        className={`component-5 property-1-4-${state.property1} ${componentClassNameOverride}`}
         onMouseLeave={() => {
-          dispatch("mouse_leave_1504");
+          dispatch("mouse_leave_1270");
         }}
         onMouseEnter={() => {
-          dispatch("mouse_enter_1504");
+          dispatch("mouse_enter_1270");
         }}
       >
-        <div className="text-wrapper-62">Our Services</div>
+        <div className="text-wrapper-82">Our Services</div>
         <img
-          className="dropdown"
+          className="dropdown-2"
           alt="Dropdown"
           src={
             state.property1 === "selected-services"
@@ -53,26 +53,26 @@ export const NavigationBar = ({
         />
       </div>
       <div
-        className={`div-wrapper ${state.property1}`}
+        className={`component-6 property-1-4-${state.property1}`}
         onMouseLeave={() => {
-          dispatch("mouse_leave_1507");
+          dispatch("mouse_leave_1273");
         }}
         onMouseEnter={() => {
-          dispatch("mouse_enter_1507");
+          dispatch("mouse_enter_1273");
         }}
       >
-        <div className="text-wrapper-63">Our Expertise</div>
+        <div className="text-wrapper-83">Our Expertise</div>
       </div>
       <div
-        className={`component-3 ${state.property1}`}
+        className={`component-7 property-1-4-${state.property1}`}
         onMouseLeave={() => {
-          dispatch("mouse_leave_1510");
+          dispatch("mouse_leave_1276");
         }}
         onMouseEnter={() => {
-          dispatch("mouse_enter_1510");
+          dispatch("mouse_enter_1276");
         }}
       >
-        <div className="text-wrapper-64">Client Work</div>
+        <div className="text-wrapper-84">Client Work</div>
       </div>
     </div>
   );
@@ -86,17 +86,17 @@ function reducer(state, action) {
           property1: "hover-selected-about-us",
         };
 
-      case "mouse_enter_1504":
+      case "mouse_enter_1270":
         return {
           property1: "hover-services",
         };
 
-      case "mouse_enter_1507":
+      case "mouse_enter_1273":
         return {
           property1: "hover-selected-expertise",
         };
 
-      case "mouse_enter_1510":
+      case "mouse_enter_1276":
         return {
           property1: "hover-selected-client-work",
         };
@@ -114,7 +114,7 @@ function reducer(state, action) {
 
   if (state.property1 === "hover-services") {
     switch (action) {
-      case "mouse_leave_1504":
+      case "mouse_leave_1270":
         return {
           property1: "default",
         };
@@ -123,7 +123,7 @@ function reducer(state, action) {
 
   if (state.property1 === "hover-selected-expertise") {
     switch (action) {
-      case "mouse_leave_1507":
+      case "mouse_leave_1273":
         return {
           property1: "default",
         };
@@ -132,7 +132,7 @@ function reducer(state, action) {
 
   if (state.property1 === "hover-selected-client-work") {
     switch (action) {
-      case "mouse_leave_1510":
+      case "mouse_leave_1276":
         return {
           property1: "default",
         };
@@ -142,7 +142,7 @@ function reducer(state, action) {
   return state;
 }
 
-NavigationBar.propTypes = {
+PropertyDefaultWrapper.propTypes = {
   property1: PropTypes.oneOf([
     "hover-selected-about-us",
     "hover-selected-client-work",

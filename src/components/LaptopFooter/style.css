@@ -1,0 +1,368 @@
+.laptop-footer {
+    background-color: var(--primaryblack);
+    height: 490px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .laptop-footer .group-31 {
+    height: 470px;
+    position: relative;
+    top: 2px;
+    width: 1444px;
+  }
+  
+  .laptop-footer .overlap-group-2 {
+    height: 186px;
+    left: 66px;
+    position: absolute;
+    top: 160px;
+    width: 255px;
+  }
+  
+  .laptop-footer .element-floor-corporate-wrapper {
+    height: 84px;
+    left: 18px;
+    position: absolute;
+    top: 102px;
+    width: 237px;
+  }
+  
+  .laptop-footer .element-floor-corporate-3 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 0;
+    width: 235px;
+  }
+  
+  .laptop-footer .LOGO-2 {
+    height: 105px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 254px;
+  }
+  
+  .laptop-footer .text-wrapper-48 {
+    color: var(--secondarygrey-5);
+    font-family: var(--web-caption-CTA-caption-font-family);
+    font-size: var(--web-caption-CTA-caption-font-size);
+    font-style: var(--web-caption-CTA-caption-font-style);
+    font-weight: var(--web-caption-CTA-caption-font-weight);
+    left: 84px;
+    letter-spacing: var(--web-caption-CTA-caption-letter-spacing);
+    line-height: var(--web-caption-CTA-caption-line-height);
+    position: absolute;
+    top: 444px;
+    width: 301px;
+  }
+  
+  .laptop-footer .text-wrapper-49 {
+    color: #ffffff;
+    font-family: "Haffer SQ XH-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 84px;
+    letter-spacing: 0;
+    line-height: 22.5px;
+    position: absolute;
+    text-decoration: underline;
+    top: 370px;
+    white-space: nowrap;
+    width: 245px;
+  }
+  
+  .laptop-footer .group-32 {
+    height: 72px;
+    left: 1034px;
+    position: absolute;
+    top: 184px;
+    width: 312px;
+  }
+  
+  .laptop-footer .text-wrapper-50 {
+    color: var(--secondarygrey-5);
+    font-family: var(--web-caption-CTA-caption-font-family);
+    font-size: var(--web-caption-CTA-caption-font-size);
+    font-style: var(--web-caption-CTA-caption-font-style);
+    font-weight: var(--web-caption-CTA-caption-font-weight);
+    left: 0;
+    letter-spacing: var(--web-caption-CTA-caption-letter-spacing);
+    line-height: var(--web-caption-CTA-caption-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 158px;
+  }
+  
+  .laptop-footer .text-wrapper-51 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 24px;
+    white-space: nowrap;
+    width: 306px;
+  }
+  
+  .laptop-footer .text-wrapper-52 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 54px;
+    white-space: nowrap;
+    width: 266px;
+  }
+  
+  .laptop-footer .group-33 {
+    height: 72px;
+    left: 1034px;
+    position: absolute;
+    top: 291px;
+    width: 312px;
+  }
+  
+  .laptop-footer .text-wrapper-53 {
+    color: var(--secondarygrey-5);
+    font-family: var(--web-caption-CTA-caption-font-family);
+    font-size: var(--web-caption-CTA-caption-font-size);
+    font-style: var(--web-caption-CTA-caption-font-style);
+    font-weight: var(--web-caption-CTA-caption-font-weight);
+    left: 0;
+    letter-spacing: var(--web-caption-CTA-caption-letter-spacing);
+    line-height: var(--web-caption-CTA-caption-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 181px;
+  }
+  
+  .laptop-footer .text-wrapper-54 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 54px;
+    white-space: nowrap;
+    width: 306px;
+  }
+  
+  .laptop-footer .line-8 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: -2px;
+    width: 1440px;
+  }
+  
+  .laptop-footer .line-9 {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 426px;
+    width: 1440px;
+  }
+  
+  .laptop-footer .line-10 {
+    height: 181px;
+    left: 945px;
+    position: absolute;
+    top: 183px;
+    width: 1px;
+  }
+  
+  .laptop-footer .group-34 {
+    height: 158px;
+    left: 494px;
+    position: absolute;
+    top: 193px;
+    width: 116px;
+  }
+  
+  .laptop-footer .text-wrapper-55 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .laptop-footer .text-wrapper-56 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 44px;
+    white-space: nowrap;
+  }
+  
+  .laptop-footer .text-wrapper-57 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 87px;
+    white-space: nowrap;
+  }
+  
+  .laptop-footer .text-wrapper-58 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 130px;
+    white-space: nowrap;
+  }
+  
+  .laptop-footer .group-35 {
+    height: 117px;
+    left: 711px;
+    position: absolute;
+    top: 193px;
+    width: 153px;
+  }
+  
+  .laptop-footer .text-wrapper-59 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 46px;
+    white-space: nowrap;
+  }
+  
+  .laptop-footer .terms-conditions-4 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 89px;
+    white-space: nowrap;
+  }
+  
+  .laptop-footer .group-36 {
+    height: 44px;
+    left: 86px;
+    position: absolute;
+    top: 62px;
+    width: 1188px;
+  }
+  
+  .laptop-footer .group-37 {
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 152px;
+  }
+  
+  .laptop-footer .ellipse-6 {
+    background-color: #ffffff;
+    border-radius: 5.25px;
+    height: 10px;
+    left: 0;
+    position: absolute;
+    top: 17px;
+    width: 10px;
+  }
+  
+  .laptop-footer .text-wrapper-60 {
+    color: #ffffff;
+    font-family: var(--web-body-b1-font-family);
+    font-size: var(--web-body-b1-font-size);
+    font-style: var(--web-body-b1-font-style);
+    font-weight: var(--web-body-b1-font-weight);
+    left: 21px;
+    letter-spacing: var(--web-body-b1-letter-spacing);
+    line-height: var(--web-body-b1-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .laptop-footer .group-38 {
+    height: 44px;
+    left: 257px;
+    position: absolute;
+    top: 0;
+    width: 177px;
+  }
+  
+  .laptop-footer .group-39 {
+    height: 44px;
+    left: 539px;
+    position: absolute;
+    top: 0;
+    width: 155px;
+  }
+  
+  .laptop-footer .group-40 {
+    height: 44px;
+    left: 799px;
+    position: absolute;
+    top: 0;
+    width: 159px;
+  }
+  
+  .laptop-footer .group-41 {
+    height: 44px;
+    left: 1063px;
+    position: absolute;
+    top: 0;
+    width: 127px;
+  }
+  
