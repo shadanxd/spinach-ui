@@ -1,0 +1,345 @@
+.navigation-bar {
+    align-items: center;
+    background-color: var(--secondarygrey-1);
+    border-radius: 100px;
+    display: inline-flex;
+    gap: 1px;
+    justify-content: center;
+    padding: 4px;
+    position: relative;
+  }
+  
+  .navigation-bar .component {
+    align-items: center;
+    border-radius: 100px;
+    display: flex;
+    gap: 8px;
+    height: 48px;
+    justify-content: center;
+    overflow: hidden;
+    padding: 11px 32px;
+    position: relative;
+    width: 192px;
+  }
+  
+  .navigation-bar .text-wrapper-17 {
+    color: var(--primarywhite);
+    margin-top: -2px;
+    position: relative;
+    text-align: center;
+  }
+  
+  .navigation-bar .component-2 {
+    align-items: center;
+    border-radius: 100px;
+    display: flex;
+    gap: 8px;
+    height: 48px;
+    justify-content: center;
+    overflow: hidden;
+    padding: 11px 32px;
+    position: relative;
+    width: 192px;
+  }
+  
+  .navigation-bar .text-wrapper-18 {
+    color: var(--primarywhite);
+    margin-top: -2px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .navigation-bar .dropdown {
+    height: 12px;
+    position: relative;
+    width: 12px;
+  }
+  
+  .navigation-bar .div-wrapper {
+    align-items: center;
+    border-radius: 100px;
+    display: flex;
+    gap: 8px;
+    height: 48px;
+    justify-content: center;
+    overflow: hidden;
+    padding: 11px 32px;
+    position: relative;
+    width: 192px;
+  }
+  
+  .navigation-bar .text-wrapper-19 {
+    color: var(--primarywhite);
+    margin-top: -2px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .navigation-bar .component-3 {
+    align-items: center;
+    border-radius: 100px;
+    display: flex;
+    gap: 8px;
+    height: 48px;
+    justify-content: center;
+    overflow: hidden;
+    padding: 11px 32px;
+    position: relative;
+    width: 192px;
+  }
+  
+  .navigation-bar .text-wrapper-20 {
+    color: var(--primarywhite);
+    margin-top: -2px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .navigation-bar .hover-selected-about-us {
+    background-color: var(--primaryblack);
+  }
+  
+  .navigation-bar .hover-services {
+    background-color: var(--primaryblack);
+  }
+  
+  .navigation-bar .selected-services {
+    background-color: var(--primaryblack);
+  }
+  
+  .navigation-bar .hover-selected-expertise {
+    background-color: var(--primaryblack);
+  }
+  
+  .navigation-bar .hover-selected-client-work {
+    background-color: var(--primaryblack);
+  }
+  
+  .navigation-bar .component.hover-services .text-wrapper-17 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .navigation-bar .component.hover-selected-expertise .text-wrapper-17 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .navigation-bar .component.hover-selected-client-work .text-wrapper-17 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .navigation-bar .component.selected-services .text-wrapper-17 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .navigation-bar .component.hover-selected-about-us .text-wrapper-17 {
+    font-family: "Haffer SQ XH-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 28px;
+    width: 109px;
+  }
+  
+  .navigation-bar .component.default .text-wrapper-17 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .navigation-bar .component-2.hover-services .text-wrapper-18 {
+    font-family: "Haffer SQ XH-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .navigation-bar .component-2.hover-selected-expertise .text-wrapper-18 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .component-2.hover-selected-client-work .text-wrapper-18 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .component-2.selected-services .text-wrapper-18 {
+    font-family: "Haffer SQ XH-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .navigation-bar .component-2.hover-selected-about-us .text-wrapper-18 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .component-2.default .text-wrapper-18 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .div-wrapper.hover-services .text-wrapper-19 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .div-wrapper.hover-selected-expertise .text-wrapper-19 {
+    font-family: "Haffer SQ XH-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .navigation-bar .div-wrapper.hover-selected-client-work .text-wrapper-19 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .div-wrapper.selected-services .text-wrapper-19 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .div-wrapper.hover-selected-about-us .text-wrapper-19 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .div-wrapper.default .text-wrapper-19 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .component-3.hover-services .text-wrapper-20 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .component-3.hover-selected-expertise .text-wrapper-20 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .component-3.hover-selected-client-work .text-wrapper-20 {
+    font-family: "Haffer SQ XH-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .navigation-bar .component-3.selected-services .text-wrapper-20 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .component-3.hover-selected-about-us .text-wrapper-20 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  
+  .navigation-bar .component-3.default .text-wrapper-20 {
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+  }
+  

@@ -1,0 +1,404 @@
+.desktop-footer {
+    background-color: var(--primaryblack);
+    height: 640px;
+    overflow: hidden;
+    width: 1920px;
+  }
+  
+  .desktop-footer .group {
+    height: 612px;
+    position: relative;
+    top: 2px;
+    width: 1924px;
+  }
+  
+  .desktop-footer .overlap {
+    height: 200px;
+    left: 138px;
+    position: absolute;
+    top: 204px;
+    width: 340px;
+  }
+  
+  .desktop-footer .element-floor-corporate-wrapper {
+    height: 67px;
+    left: 24px;
+    position: absolute;
+    top: 133px;
+    width: 316px;
+  }
+  
+  .desktop-footer .element-floor-corporate {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b3-font-family);
+    font-size: var(--web-body-b3-font-size);
+    font-style: var(--web-body-b3-font-style);
+    font-weight: var(--web-body-b3-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b3-letter-spacing);
+    line-height: var(--web-body-b3-line-height);
+    position: absolute;
+    top: 0;
+    width: 314px;
+  }
+  
+  .desktop-footer .LOGO {
+    height: 140px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 338px;
+  }
+  
+  .desktop-footer .text-wrapper {
+    color: var(--secondarygrey-5);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 162px;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 584px;
+    width: 270px;
+  }
+  
+  .desktop-footer .div {
+    color: var(--primarywhite);
+    font-family: "Haffer SQ XH-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 162px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-decoration: underline;
+    top: 464px;
+    white-space: nowrap;
+    width: 326px;
+  }
+  
+  .desktop-footer .group-2 {
+    height: 96px;
+    left: 1354px;
+    position: absolute;
+    top: 244px;
+    width: 380px;
+  }
+  
+  .desktop-footer .text-wrapper-2 {
+    color: var(--secondarygrey-5);
+    font-family: var(--web-body-b4-font-family);
+    font-size: var(--web-body-b4-font-size);
+    font-style: var(--web-body-b4-font-style);
+    font-weight: var(--web-body-b4-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b4-letter-spacing);
+    line-height: var(--web-body-b4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 210px;
+  }
+  
+  .desktop-footer .text-wrapper-3 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b3-font-family);
+    font-size: var(--web-body-b3-font-size);
+    font-style: var(--web-body-b3-font-style);
+    font-weight: var(--web-body-b3-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b3-letter-spacing);
+    line-height: var(--web-body-b3-line-height);
+    position: absolute;
+    top: 32px;
+    white-space: nowrap;
+    width: 374px;
+  }
+  
+  .desktop-footer .text-wrapper-4 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b3-font-family);
+    font-size: var(--web-body-b3-font-size);
+    font-style: var(--web-body-b3-font-style);
+    font-weight: var(--web-body-b3-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b3-letter-spacing);
+    line-height: var(--web-body-b3-line-height);
+    position: absolute;
+    top: 72px;
+    white-space: nowrap;
+    width: 354px;
+  }
+  
+  .desktop-footer .group-3 {
+    height: 96px;
+    left: 1354px;
+    position: absolute;
+    top: 387px;
+    width: 360px;
+  }
+  
+  .desktop-footer .text-wrapper-5 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b3-font-family);
+    font-size: var(--web-body-b3-font-size);
+    font-style: var(--web-body-b3-font-style);
+    font-weight: var(--web-body-b3-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b3-letter-spacing);
+    line-height: var(--web-body-b3-line-height);
+    position: absolute;
+    top: 32px;
+    white-space: nowrap;
+    width: 354px;
+  }
+  
+  .desktop-footer .line {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: -2px;
+    width: 1920px;
+  }
+  
+  .desktop-footer .img {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 566px;
+    width: 1920px;
+  }
+  
+  .desktop-footer .line-2 {
+    height: 241px;
+    left: 1242px;
+    object-fit: cover;
+    position: absolute;
+    top: 242px;
+    width: 1px;
+  }
+  
+  .desktop-footer .overlap-group {
+    height: 206px;
+    left: 678px;
+    position: absolute;
+    top: 244px;
+    width: 457px;
+  }
+  
+  .desktop-footer .group-4 {
+    height: 206px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 355px;
+  }
+  
+  .desktop-footer .text-wrapper-6 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b3-font-family);
+    font-size: var(--web-body-b3-font-size);
+    font-style: var(--web-body-b3-font-style);
+    font-weight: var(--web-body-b3-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b3-letter-spacing);
+    line-height: var(--web-body-b3-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .text-wrapper-7 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b3-font-family);
+    font-size: var(--web-body-b3-font-size);
+    font-style: var(--web-body-b3-font-style);
+    font-weight: var(--web-body-b3-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b3-letter-spacing);
+    line-height: var(--web-body-b3-line-height);
+    position: absolute;
+    top: 58px;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .text-wrapper-8 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b3-font-family);
+    font-size: var(--web-body-b3-font-size);
+    font-style: var(--web-body-b3-font-style);
+    font-weight: var(--web-body-b3-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b3-letter-spacing);
+    line-height: var(--web-body-b3-line-height);
+    position: absolute;
+    top: 116px;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .text-wrapper-9 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b3-font-family);
+    font-size: var(--web-body-b3-font-size);
+    font-style: var(--web-body-b3-font-style);
+    font-weight: var(--web-body-b3-font-weight);
+    left: 0;
+    letter-spacing: var(--web-body-b3-letter-spacing);
+    line-height: var(--web-body-b3-line-height);
+    position: absolute;
+    top: 174px;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .text-wrapper-10 {
+    color: var(--primarywhite);
+    font-family: var(--web-body-b3-font-family);
+    font-size: var(--web-body-b3-font-size);
+    font-style: var(--web-body-b3-font-style);
+    font-weight: var(--web-body-b3-font-weight);
+    left: 270px;
+    letter-spacing: var(--web-body-b3-letter-spacing);
+    line-height: var(--web-body-b3-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .group-5 {
+    height: 90px;
+    left: 270px;
+    position: absolute;
+    top: 61px;
+    width: 187px;
+  }
+  
+  .desktop-footer .group-6 {
+    height: 48px;
+    left: 162px;
+    position: absolute;
+    top: 98px;
+    width: 1429px;
+  }
+  
+  .desktop-footer .ellipse {
+    background-color: var(--primarywhite);
+    border-radius: 7px;
+    height: 14px;
+    left: 0;
+    position: absolute;
+    top: 17px;
+    width: 14px;
+  }
+  
+  .desktop-footer .text-wrapper-11 {
+    color: var(--primarywhite);
+    font-family: var(--web-title-h4-font-family);
+    font-size: var(--web-title-h4-font-size);
+    font-style: var(--web-title-h4-font-style);
+    font-weight: var(--web-title-h4-font-weight);
+    left: 28px;
+    letter-spacing: var(--web-title-h4-letter-spacing);
+    line-height: var(--web-title-h4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .text-wrapper-12 {
+    color: var(--primarywhite);
+    font-family: var(--web-title-h4-font-family);
+    font-size: var(--web-title-h4-font-size);
+    font-style: var(--web-title-h4-font-style);
+    font-weight: var(--web-title-h4-font-weight);
+    left: 335px;
+    letter-spacing: var(--web-title-h4-letter-spacing);
+    line-height: var(--web-title-h4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .text-wrapper-13 {
+    color: var(--primarywhite);
+    font-family: var(--web-title-h4-font-family);
+    font-size: var(--web-title-h4-font-size);
+    font-style: var(--web-title-h4-font-style);
+    font-weight: var(--web-title-h4-font-weight);
+    left: 677px;
+    letter-spacing: var(--web-title-h4-letter-spacing);
+    line-height: var(--web-title-h4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .text-wrapper-14 {
+    color: var(--primarywhite);
+    font-family: var(--web-title-h4-font-family);
+    font-size: var(--web-title-h4-font-size);
+    font-style: var(--web-title-h4-font-style);
+    font-weight: var(--web-title-h4-font-weight);
+    left: 992px;
+    letter-spacing: var(--web-title-h4-letter-spacing);
+    line-height: var(--web-title-h4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .text-wrapper-15 {
+    color: var(--primarywhite);
+    font-family: var(--web-title-h4-font-family);
+    font-size: var(--web-title-h4-font-size);
+    font-style: var(--web-title-h4-font-style);
+    font-weight: var(--web-title-h4-font-weight);
+    left: 1310px;
+    letter-spacing: var(--web-title-h4-letter-spacing);
+    line-height: var(--web-title-h4-line-height);
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .desktop-footer .ellipse-2 {
+    background-color: var(--primarywhite);
+    border-radius: 7px;
+    height: 14px;
+    left: 307px;
+    position: absolute;
+    top: 17px;
+    width: 14px;
+  }
+  
+  .desktop-footer .ellipse-3 {
+    background-color: var(--primarywhite);
+    border-radius: 7px;
+    height: 14px;
+    left: 649px;
+    position: absolute;
+    top: 17px;
+    width: 14px;
+  }
+  
+  .desktop-footer .ellipse-4 {
+    background-color: var(--primarywhite);
+    border-radius: 7px;
+    height: 14px;
+    left: 964px;
+    position: absolute;
+    top: 17px;
+    width: 14px;
+  }
+  
+  .desktop-footer .ellipse-5 {
+    background-color: var(--primarywhite);
+    border-radius: 7px;
+    height: 14px;
+    left: 1282px;
+    position: absolute;
+    top: 17px;
+    width: 14px;
+  }
+  
