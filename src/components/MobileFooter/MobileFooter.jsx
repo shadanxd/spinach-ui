@@ -35,7 +35,7 @@ export const MobileFooter = ({
         src="https://cdn.animaapp.com/projects/65cbae09ebe3d944fc1d2ca6/releases/65cc613e3dc62a0545e3653b/img/line-75.svg"
       />
       <div className="group">
-        <div className="text-wrapper-2">View on Google maps</div>
+      <a href="https://maps.app.goo.gl/dGWAeMKDsSgosZTWA" className="text-wrapper-2">View on Google maps</a>
         <div className="group-2">
           <p className="element-floor-corporate">
             7th floor, Corporate Park ||, <br />
@@ -66,22 +66,22 @@ export const MobileFooter = ({
       <div className="group-6">
         <div className="group-7">
           <div className="ellipse" />
-          <div className="text-wrapper-16">LinkedIn</div>
+          <a href="https://www.linkedin.com" className="text-wrapper-16">LinkedIn</a>
         </div>
         <div className="group-8">
-          <div className="text-wrapper-17">Instagram</div>
+          <a href="https://www.instagram.com" className="text-wrapper-17">Instagram</a>
           <div className="ellipse" />
         </div>
         <div className="group-9">
-          <div className="text-wrapper-18">Behance</div>
+          <a href="https://www.behance.com" className="text-wrapper-18">Behance</a>
           <div className="ellipse-2" />
         </div>
         <div className="group-10">
-          <div className="text-wrapper-18">Twitter</div>
+          <a href="https://www.twitter.com" className="text-wrapper-18">Twitter</a>
           <div className="ellipse-2" />
         </div>
         <div className="group-11">
-          <div className="text-wrapper-18">Dribbble</div>
+          <a href="https://www.dribbble.com" className="text-wrapper-18">Dribbble</a>
           <div className="ellipse-2" />
         </div>
       </div>

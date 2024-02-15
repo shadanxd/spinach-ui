@@ -27,7 +27,7 @@ export const DesktopFooter = ({
           <img className="LOGO-3" alt="Logo" src={LOGO} />
         </div>
         <p className="text-wrapper-65">© 2024 Spinach Experience Design</p>
-        <div className="text-wrapper-66">View on Google maps</div>
+        <a href="https://maps.app.goo.gl/dGWAeMKDsSgosZTWA" className="text-wrapper-66">View on Google maps</a>
         <div className="group-43">
           <div className="text-wrapper-67">Business enquiries:</div>
           <div className="text-wrapper-68">eshani@spinachexperience.design</div>
@@ -56,11 +56,11 @@ export const DesktopFooter = ({
         </div>
         <div className="group-47">
           <div className="ellipse-7" />
-          <div className="text-wrapper-76">LinkedIn</div>
-          <div className="text-wrapper-77">Instagram</div>
-          <div className="text-wrapper-78">Dribbble</div>
-          <div className="text-wrapper-79">Behance</div>
-          <div className="text-wrapper-80">Twitter</div>
+          <a href="https://www.linkedin.com/" className="text-wrapper-76">LinkedIn</a>
+          <a href="https://www.instagram.com/" className="text-wrapper-77">Instagram</a>
+          <a href="https://dribbble.com/" className="text-wrapper-78">Dribbble</a>
+          <a href="https://www.behance.net/" className="text-wrapper-79">Behance</a>
+          <a href="https://twitter.com/" className="text-wrapper-80">Twitter</a>
           <div className="ellipse-8" />
           <div className="ellipse-9" />
           <div className="ellipse-10" />
