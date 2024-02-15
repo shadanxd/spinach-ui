@@ -21,7 +21,7 @@ export const IpadProFooter = ({
         <img className="LOGO" alt="Logo" src={LOGO} />
       </div>
       <p className="text-wrapper-35">© 2024 Spinach Experience Design</p>
-      <div className="text-wrapper-36">View on Google maps</div>
+      <a href="https://maps.app.goo.gl/dGWAeMKDsSgosZTWA" className="text-wrapper-36">View on Google maps</a>
       <img
         className="line-6"
         alt="Line"
@@ -46,22 +46,22 @@ export const IpadProFooter = ({
       <div className="group-23">
         <div className="group-24">
           <div className="ellipse-5" />
-          <div className="text-wrapper-42">LinkedIn</div>
+          <a href="https://www.linkedin.com" className="text-wrapper-42">LinkedIn</a>
         </div>
         <div className="group-25">
-          <div className="text-wrapper-42">Instagram</div>
+          <a href="https://www.instagram.com" className="text-wrapper-42">Instagram</a>
           <div className="ellipse-5" />
         </div>
         <div className="group-26">
-          <div className="text-wrapper-42">Dribbble</div>
+          <a href="https://www.dribbble.com" className="text-wrapper-42">Dribbble</a>
           <div className="ellipse-5" />
         </div>
         <div className="group-27">
-          <div className="text-wrapper-42">Behance</div>
+          <a href="https://www.behance.com" className="text-wrapper-42">Behance</a>
           <div className="ellipse-5" />
         </div>
         <div className="group-28">
-          <div className="text-wrapper-42">Twitter</div>
+          <a href= "https://wwww.twitter.com" className="text-wrapper-42">Twitter</a>
           <div className="ellipse-5" />
         </div>
       </div>

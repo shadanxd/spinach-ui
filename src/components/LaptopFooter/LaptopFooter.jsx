@@ -24,7 +24,7 @@ export const LaptopFooter = ({
           <img className="LOGO-2" alt="Logo" src={LOGO} />
         </div>
         <p className="text-wrapper-48">© 2024 Spinach Experience Design</p>
-        <div className="text-wrapper-49">View on Google maps</div>
+        <a href="https://maps.app.goo.gl/dGWAeMKDsSgosZTWA" className="text-wrapper-49">View on Google maps</a>
         <div className="group-32">
           <div className="text-wrapper-50">Business enquiries:</div>
           <div className="text-wrapper-51">eshani@spinachexperience.design</div>
@@ -64,22 +64,22 @@ export const LaptopFooter = ({
         <div className="group-36">
           <div className="group-37">
             <div className="ellipse-6" />
-            <div className="text-wrapper-60">LinkedIn</div>
+            <a href="https://www.linkedin.com" className="text-wrapper-60">LinkedIn</a>
           </div>
           <div className="group-38">
-            <div className="text-wrapper-60">Instagram</div>
+            <a href="https://instagram.com" className="text-wrapper-60">Instagram</a>
             <div className="ellipse-6" />
           </div>
           <div className="group-39">
-            <div className="text-wrapper-60">Dribbble</div>
+            <a href="https://www.dribbble.com" className="text-wrapper-60">Dribbble</a>
             <div className="ellipse-6" />
           </div>
           <div className="group-40">
-            <div className="text-wrapper-60">Behance</div>
+            <a href="https://www.behance.com" className="text-wrapper-60">Behance</a>
             <div className="ellipse-6" />
           </div>
           <div className="group-41">
-            <div className="text-wrapper-60">Twitter</div>
+            <a href="https://www.twitter.com" className="text-wrapper-60">Twitter</a>
             <div className="ellipse-6" />
           </div>
         </div>

@@ -26,7 +26,6 @@ export const RotatingPhaseCards = () => {
       backgroundColor: "#040404"
     }}
   >
-    <Carousel responsive={responsive}>
       <div className="group-133">
           <div className="frame-36">
             <div className="heading">
@@ -87,6 +86,6 @@ export const RotatingPhaseCards = () => {
             </div>
           </div>
         </div>
-    </Carousel> </div>
+     </div>
   );
 };

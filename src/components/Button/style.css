@@ -2,7 +2,7 @@
   all: unset;
   align-items: center;
   border: 1px solid;
-  border-radius: 100px;
+  border-radius: 100px; /* Set border-radius to 0 for sharp corners */
   box-sizing: border-box;
   display: inline-flex;
   gap: 8px;
@@ -10,6 +10,7 @@
   overflow: hidden;
   padding: 10px 32px;
   position: relative;
+  background-color: transparent; /* Set the background to transparent */
 }
 
 .button .text-wrapper {
@@ -23,27 +24,33 @@
   text-align: center;
   white-space: nowrap;
   width: fit-content;
+  color: #ffffff; /* Set font color to white */
 }
 
 .button.white {
+  background-color: transparent; /* Set the background to transparent */
+  border-color: #ffffff; /* Set border color to white */
 }
 
 .button.black {
+  background-color: transparent; /* Set the background to transparent */
+  border-color: var(--primaryblack); /* Set border color to primaryblack */
 }
 
+/* Remove hover styles to disable hover effect */
 .button:hover .text-wrapper {
-  font-family: var(--button-hover-font-family);
-  font-size: var(--button-hover-font-size);
-  font-style: var(--button-hover-font-style);
-  font-weight: var(--button-hover-font-weight);
-  letter-spacing: var(--button-hover-letter-spacing);
-  line-height: var(--button-hover-line-height);
+  font-family: var(--button-default-font-family);
+  font-size: var(--button-default-font-size);
+  font-style: var(--button-default-font-style);
+  font-weight: var(--button-default-font-weight);
+  letter-spacing: var(--button-default-letter-spacing);
+  line-height: var(--button-default-line-height);
 }
 
 .button:hover.white {
-  background-color: #ffffff;
+  background-color: transparent; /* Set the background to transparent */
 }
 
 .button:hover.black {
-  background-color: var(--primaryblack);
+  background-color: transparent; /* Set the background to transparent */
 }

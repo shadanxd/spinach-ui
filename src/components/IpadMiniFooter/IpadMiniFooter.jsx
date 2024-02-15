@@ -24,7 +24,7 @@ export const IpadMiniFooter = ({
         Mumbai- 400071 , India.
       </p>
       <p className="p">© 2024 Spinach Experience Design</p>
-      <div className="text-wrapper-19">View on Google maps</div>
+      <a href="https://maps.app.goo.gl/dGWAeMKDsSgosZTWA" className="text-wrapper-19">View on Google maps</a>
       <img
         className="line-5"
         alt="Line"
@@ -51,22 +51,22 @@ export const IpadMiniFooter = ({
       <div className="group-15">
         <div className="group-16">
           <div className="ellipse-3" />
-          <div className="text-wrapper-32">LinkedIn</div>
+          <a href="https://www.linkedin.com/" className="text-wrapper-32">LinkedIn</a>
         </div>
         <div className="group-17">
-          <div className="text-wrapper-33">Instagram</div>
+        <a href="https://www.instagram.com/" className="text-wrapper-33">Instagram</a>
           <div className="ellipse-3" />
         </div>
         <div className="group-18">
-          <div className="text-wrapper-34">Behance</div>
+          <a href="https://dribbble.com/" className="text-wrapper-34">Behance</a>
           <div className="ellipse-4" />
         </div>
         <div className="group-19">
-          <div className="text-wrapper-34">Twitter</div>
+          <a href="https://twitter.com" className="text-wrapper-34">Twitter</a>
           <div className="ellipse-4" />
         </div>
         <div className="group-20">
-          <div className="text-wrapper-34">Dribbble</div>
+          <a href="https://dribbble.com/" className="text-wrapper-34">Dribbble</a>
           <div className="ellipse-4" />
         </div>
       </div>
